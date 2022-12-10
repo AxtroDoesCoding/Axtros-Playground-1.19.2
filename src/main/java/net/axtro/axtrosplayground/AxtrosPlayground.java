@@ -19,6 +19,8 @@ public class AxtrosPlayground {
     public static final String MOD_ID = "axtrosplayground";
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    //Hello World!
+
     public AxtrosPlayground() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
