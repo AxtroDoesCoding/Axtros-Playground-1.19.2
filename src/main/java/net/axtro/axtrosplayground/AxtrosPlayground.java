@@ -19,7 +19,7 @@ public class AxtrosPlayground {
     public static final String MOD_ID = "axtrosplayground";
     private static final Logger LOGGER = LogUtils.getLogger();
 
-    //Hello World!
+    //epic minecraft mod :O
 
     public AxtrosPlayground() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
