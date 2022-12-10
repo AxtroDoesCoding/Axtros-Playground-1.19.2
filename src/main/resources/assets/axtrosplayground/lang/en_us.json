@@ -2,7 +2,9 @@
   "item.axtrosplayground.cucumber_seeds": "Cucumber Seeds",
   "item.axtrosplayground.cucumber": "Cucumber",
 
+  "itemGroup.playgroundtab": "Axtro's Playground",
+
   "block.axtrosplayground.cucumber_crop": "Cucumber Crop",
 
-  "item.axtrosplayground.axtrologo": "Playground Tab"
+  "item.axtrosplayground.axtrologo": "Axtro's Logo"
 }

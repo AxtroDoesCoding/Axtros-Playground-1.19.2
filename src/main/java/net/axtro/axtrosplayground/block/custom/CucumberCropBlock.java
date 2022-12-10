@@ -9,7 +9,7 @@ import net.minecraft.world.level.block.state.StateDefinition;
 import net.minecraft.world.level.block.state.properties.IntegerProperty;
 
 public class CucumberCropBlock extends CropBlock{
-    public static final IntegerProperty AGE = IntegerProperty.create("age", 0, 6);
+    public static final IntegerProperty AGE = IntegerProperty.create("age", 0, 4);
 
     public CucumberCropBlock(Properties properties) {
         super(properties);
@@ -27,7 +27,7 @@ public class CucumberCropBlock extends CropBlock{
 
     @Override
     public int getMaxAge() {
-        return 6;
+        return 4;
     }
 
     @Override
